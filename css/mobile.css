@@ -1,0 +1,99 @@
+/* navbar */
+#navbar h1 {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul {
+    float: none;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 8px;
+    border-bottom: 0.1px solid #222;
+}
+
+/* showcase */
+
+#showcase {
+    height: 500px;
+}
+
+#showcase .showcase-content {
+    padding-top: 70px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* home info */
+
+
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: right;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+
+}
+/*  boxes */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    float: none;
+    width: 100%;
+    min-height: 100%;
+    
+}
+
+#about-info .info-left {
+    float: none;
+    width: 100%;
+    min-height: 100%;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+}
+
+/* testimonial */
+
+
+#testimonials {
+    height: auto;
+    background: url('../img/test-bg.jpg') no-repeat center center/cover;
+    padding-top: 50px;
+}
+
+#testimonials h2 {
+    padding-top: 30px;
+    line-height: 2.5rem;
+}
+
+/* contact */
+
+/* Contact Form */
+
+#contact-form h1 {
+    padding-top: 20px;
+}
+
+#contact-info .box {
+    border-bottom: 0.1px solid #444;
+}
